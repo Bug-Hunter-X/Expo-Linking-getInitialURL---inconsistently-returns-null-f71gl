@@ -1,0 +1,1 @@
+While using Expo's `Linking` API to handle deep links, I encountered an issue where the `getInitialURL` method would sometimes return `null` even when a deep link was clearly launched. This was inconsistent and made reliable deep link handling difficult.
